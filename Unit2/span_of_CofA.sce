@@ -36,3 +36,43 @@ endfunction
 col_space(mat)
 
 //201800157
+/*
+SAMPLE OUTPUT FOR [1,2,3;4,5,6;7,8,9]
+ The matrix mat = 
+
+   1.   2.   3.
+   4.   5.   6.
+   7.   8.   9.
+
+ Down below are basic row operations
+
+   1.   2.   3.
+   0.  -3.  -6.
+   7.   8.   9.
+
+   1.   2.   3. 
+   0.  -3.  -6. 
+   0.  -6.  -12.
+
+   1.   2.   3.
+   0.  -3.  -6.
+   0.   0.   0.
+
+ Row Reduced form = 
+
+   1.   2.   3.
+   0.   1.   2.
+   0.   0.   0.
+
+ column
+
+   1.
+
+ is a pivot column
+
+ column
+
+   2.
+
+ is a pivot column
+*/
