@@ -13,5 +13,9 @@ SEC :  4I
   <ol type="1">
     <li>Span of a matrix </li>
     <li>4 subspaces of a matrix</li>
-  </ol> 
+  </ol>
+  <li><h3>Unit 3</h3></li>
+  <ol type="1">
+    <li>Best Fit Line </li>
+  </ol>
 </ul>
