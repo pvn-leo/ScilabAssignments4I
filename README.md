@@ -18,4 +18,10 @@ SEC :  4I
   <ol type="1">
     <li>Best Fit Line </li>
   </ol>
+  <li><h3>Unit 4</h3></li>
+  <ol type="1">
+    <li>Eigen values and Eigen vectors of any 3x3 matrix</li>
+    <li>Gram - Schmidt Orthogonalization</li>
+    <li>Rayleigh method to find largest Eigen value</li>
+  </ol>
 </ul>
